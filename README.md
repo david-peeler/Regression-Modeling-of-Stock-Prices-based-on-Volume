@@ -1,1 +1,1 @@
-# Regression of Stock PRices based on Volume
+# Regression of Stock Prices based on Volume
